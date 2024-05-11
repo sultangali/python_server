@@ -1,0 +1,9 @@
+{
+    "port": {
+        "1": 5000,
+        "2": 4444
+    },
+    "dbUrl": "mongodb://localhost:27017/",
+    "mongodbUrl": "mongodb+srv://dev:k0LmNmIlyWOd0TR6@cluster0.mufymz0.mongodb.net/studyDB",
+    "jwt_key": "qwerty"
+} 
